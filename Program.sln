@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program", "Program.vcxproj"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th (GetAsyncKeyState)", "..\Class1th (GetAsyncKeyState)\Class1th (GetAsyncKeyState).vcxproj", "{867EB266-2BE5-43BF-88F1-34B31C7D11AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th (Double Buffering)", "..\Class2th (Double Buffering)\Class2th (Double Buffering).vcxproj", "{81F29BA5-D645-4705-AA9E-BA452EA15CE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{867EB266-2BE5-43BF-88F1-34B31C7D11AB}.Release|x64.Build.0 = Release|x64
 		{867EB266-2BE5-43BF-88F1-34B31C7D11AB}.Release|x86.ActiveCfg = Release|Win32
 		{867EB266-2BE5-43BF-88F1-34B31C7D11AB}.Release|x86.Build.0 = Release|Win32
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Debug|x64.ActiveCfg = Debug|x64
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Debug|x64.Build.0 = Debug|x64
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Debug|x86.ActiveCfg = Debug|Win32
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Debug|x86.Build.0 = Debug|Win32
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Release|x64.ActiveCfg = Release|x64
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Release|x64.Build.0 = Release|x64
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Release|x86.ActiveCfg = Release|Win32
+		{81F29BA5-D645-4705-AA9E-BA452EA15CE1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
